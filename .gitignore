@@ -5,3 +5,6 @@ peer-dataset-federation/client/p2p/__pycache__/
 peer-dataset-federation/node/cache
 .vscode/
 peer-dataset-federation/node/data/*.parquet
+
+result
+.direnv/
